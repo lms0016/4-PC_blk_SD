@@ -1,0 +1,10 @@
+1p-16G-test7.outv: FCL Foreground: Physical access time average: 	32.758854
+1p-16G-testn.outv: FCL Foreground: Physical access time average: 	34.606132
+1p-test7.outv: FCL Foreground: Physical access time average: 	33.424046
+1p-testn.outv: FCL Foreground: Physical access time average: 	35.807726
+fox-1part-t1test01-opt-16G-IO1-a05.outv: FCL Foreground: Physical access time average: 	26.825823
+fox-1part-t1test05-opt-16G-IO1-a05-1.outv: FCL Foreground: Physical access time average: 	145.930119
+fox-1part-t1test06-opt-16G-IO1-a05.outv: FCL Foreground: Physical access time average: 	14.974684
+fox-1part-t1test09-opt-16G-IO1-a05.outv: FCL Foreground: Physical access time average: 	41.159449
+fox-1part-t1test11-opt-16G-IO1-a05.outv: FCL Foreground: Physical access time average: 	1.615056
+fox-1part-t1test13-opt-16G-IO1-a05.outv: FCL Foreground: Physical access time average: 	14.708655

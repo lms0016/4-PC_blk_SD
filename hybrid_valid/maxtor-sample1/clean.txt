@@ -1,0 +1,8 @@
+1p-16G-test7.outv:ssd  #0 elem #0   Number of cleans:	474
+1p-16G-testn.outv:ssd  #0 elem #0   Number of cleans:	7126
+fox-1part-t1test01-opt-16G-IO1-a05.outv:ssd  #0 elem #0   Number of cleans:	31162
+fox-1part-t1test05-opt-16G-IO1-a05-1.outv:ssd  #0 elem #0   Number of cleans:	4746
+fox-1part-t1test06-opt-16G-IO1-a05.outv:ssd  #0 elem #0   Number of cleans:	21942
+fox-1part-t1test09-opt-16G-IO1-a05.outv:ssd  #0 elem #0   Number of cleans:	63960
+fox-1part-t1test11-opt-16G-IO1-a05.outv:ssd  #0 elem #0   Number of cleans:	2230
+fox-1part-t1test13-opt-16G-IO1-a05.outv:ssd  #0 elem #0   Number of cleans:	25524

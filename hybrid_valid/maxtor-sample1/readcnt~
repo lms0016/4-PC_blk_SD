@@ -1,0 +1,4 @@
+grep -i 'fcl foreground: number of reads' *.outv > read.txt
+grep -i 'fcl foreground: number of reads' *.outv 
+grep -i 'fcl foreground: number of writes' *.outv > write.txt
+grep -i 'fcl foreground: number of writes' *.outv 
